@@ -6,4 +6,6 @@
 ``` pip install python-opencv tensorflow numpy matplotlib ```
 ### For the best experience use the note-book ###
 ```pose-estimation.ipynb```
-### However the### ``` pose-estimation.py``` ###will still work.###
+### However the ### 
+``` pose-estimation.py``` 
+### will still work.###
