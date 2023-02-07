@@ -9,3 +9,5 @@
 ### However the ### 
 ``` pose-estimation.py``` 
 ### will still work. ###
+
+### Additionally do not alter contents of the ### ```lite-model_movenet_singlepose_lightning_3.tflite``` ### file ###
