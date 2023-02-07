@@ -1,6 +1,6 @@
 # Pose-Estimation #
 
-##Prerequiste##
+## Prerequiste ##
 ### You will need to have installed Python's Open computer vision, Tensorflow, NumPy and Matplot library ##
 ### You can use the following line of code ###
 ``` pip install python-opencv tensorflow numpy matplotlib ```
